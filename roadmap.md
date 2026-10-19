@@ -1,0 +1,4 @@
+- [ ] Create deterministic synthetic automotive data, shared queries, KPIs, tests, and browser-local demo state.
+- [ ] Build the operational shell and executive, quality, manufacturing, and supply-chain views.
+- [ ] Build thread-based deterministic AI analysis, agents, automation, pipeline, cloud operations, governance, guided demo, and report.
+- [ ] Document architecture and demo script; verify routes, flows, tests, lint, and build.
